@@ -1,0 +1,11 @@
+.item {
+    color: #fff;
+    display: flex;
+    margin: 20px
+}
+
+.img {
+    width: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}

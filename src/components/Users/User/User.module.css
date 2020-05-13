@@ -1,0 +1,17 @@
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+.photo {
+    width: 100px;
+}
+
+.wrapper {
+    margin-bottom: 20px;
+}
+
+.name {
+    width: 150px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,17 @@
+.content {
+    grid-area: c;
+}
+
+
+.profileWrapper {
+    margin-left: 15px;
+}
+.profileInfo {
+    display: flex;
+}
+
+
+
+.bg {
+    width: 100%;
+}

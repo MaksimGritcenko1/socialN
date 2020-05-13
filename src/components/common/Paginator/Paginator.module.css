@@ -1,0 +1,27 @@
+.selectedPage {
+    font-weight: bold;
+    background-color: rgb(63, 215, 212)
+}
+
+.wrapper {
+    display: flex;
+}
+
+.listPages {
+    text-align: center;
+}
+
+.listItem {
+    display: inline-block;
+    margin-left: 10px;
+    border: 1px solid #aaa;
+    width: 27px;
+}
+
+.listItem:hover {
+    cursor: pointer;
+    background-color: rgb(63, 180, 180);
+}
+
+
+

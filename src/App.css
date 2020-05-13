@@ -1,0 +1,32 @@
+body {
+  color: #ffffff;
+  font-family: sans-serif;
+}
+
+.app-wrapper {
+  margin: auto;
+  display: grid;
+  width: 1200px;
+
+  grid-template-areas:
+  "h h"
+  "n c";
+
+    grid-template-rows: 100px 1fr;
+      grid-template-columns: 2fr 10fr;
+      grid-gap: 10px;
+}
+
+.app-wrapper-content {
+  grid-area: c;
+  background-color: rgba(90, 90, 125, 0.8);
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+

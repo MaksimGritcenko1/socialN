@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9997f87-68cf-47cc-824f-7667801fb9c1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/socialN" />
+  </component>
+  <component name="ProjectId" id="1ZCtfIirzEBEWWzceQuN34HnxJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/ProfileInfo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Front-end\01\my-app\src\components\Users\User" />
+      <recent name="C:\Front-end\01\my-app\src\components\common\Paginator" />
+      <recent name="C:\Front-end\01\my-app\src\utils\validators" />
+      <recent name="C:\Front-end\01\my-app\src" />
+      <recent name="C:\Front-end\01\my-app\src\components\Profile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Front-end\01\my-app\src\components\Profile\ProfileInfo" />
+      <recent name="C:\Front-end\01\my-app\src\Redux" />
+      <recent name="C:\Front-end\01\my-app\src\components\Users2\User" />
+      <recent name="C:\Front-end\01\my-app\src\API" />
+      <recent name="C:\Front-end\01\my-app\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.Status component.status from props should be in the state">
+    <configuration name="Status component.status from props should be in the state" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/Status.test.js" />
+      <test-names>
+        <test-name value="Status component" />
+        <test-name value="status from props should be in the state" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="post shouldn`t be changed if id is incorrect" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Redux/ProfileReducer.test.js" />
+      <test-names>
+        <test-name value="post shouldn`t be changed if id is incorrect" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="renders without crashing" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="renders without crashing" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="user should be followed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Redux/UsersReducer.test.js" />
+      <test-names>
+        <test-name value="user should be followed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Status component.status from props should be in the state" />
+        <item itemvalue="Jest.renders without crashing" />
+        <item itemvalue="Jest.renders learn react link" />
+        <item itemvalue="Jest.user should be followed" />
+        <item itemvalue="Jest.post shouldn`t be changed if id is incorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9997f87-68cf-47cc-824f-7667801fb9c1" name="Default Changelist" comment="" />
+      <created>1584355005885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584355005885</updated>
+      <workItem from="1584355011432" duration="93000" />
+      <workItem from="1584355134916" duration="144000" />
+      <workItem from="1584355323496" duration="2476000" />
+      <workItem from="1584366646923" duration="12615000" />
+      <workItem from="1584440605323" duration="14302000" />
+      <workItem from="1584480232893" duration="3755000" />
+      <workItem from="1584526719874" duration="7133000" />
+      <workItem from="1584616730782" duration="16909000" />
+      <workItem from="1584789314945" duration="15248000" />
+      <workItem from="1584818705340" duration="730000" />
+      <workItem from="1584875864849" duration="16265000" />
+      <workItem from="1584959627198" duration="1277000" />
+      <workItem from="1584978962506" duration="6000" />
+      <workItem from="1585254292557" duration="4000" />
+      <workItem from="1585401518549" duration="10324000" />
+      <workItem from="1585472541382" duration="7342000" />
+      <workItem from="1585562633953" duration="3675000" />
+      <workItem from="1585660605509" duration="2553000" />
+      <workItem from="1585822765603" duration="31768000" />
+      <workItem from="1585986492946" duration="5882000" />
+      <workItem from="1586033236167" duration="2259000" />
+      <workItem from="1586336073738" duration="12808000" />
+      <workItem from="1586425665928" duration="16421000" />
+      <workItem from="1586507125061" duration="12155000" />
+      <workItem from="1586552686639" duration="1159000" />
+      <workItem from="1586592078139" duration="4832000" />
+      <workItem from="1586723326638" duration="2427000" />
+      <workItem from="1586768259143" duration="3370000" />
+      <workItem from="1586867686006" duration="11109000" />
+      <workItem from="1586942295888" duration="21629000" />
+      <workItem from="1586984204050" duration="611000" />
+      <workItem from="1587041685158" duration="3089000" />
+      <workItem from="1587379864866" duration="7570000" />
+      <workItem from="1587464479094" duration="16684000" />
+      <workItem from="1587547362055" duration="6476000" />
+      <workItem from="1587587166068" duration="1297000" />
+      <workItem from="1587735568335" duration="3244000" />
+      <workItem from="1587767693290" duration="2042000" />
+      <workItem from="1587933441085" duration="3000" />
+      <workItem from="1588079454731" duration="8498000" />
+      <workItem from="1588248644919" duration="4975000" />
+      <workItem from="1588347551845" duration="12653000" />
+      <workItem from="1588539618202" duration="120000" />
+      <workItem from="1588540685870" duration="290000" />
+      <workItem from="1588600280679" duration="3524000" />
+      <workItem from="1588760764007" duration="201000" />
+      <workItem from="1588775123783" duration="1486000" />
+      <workItem from="1588845668314" duration="6861000" />
+      <workItem from="1589053548093" duration="23000" />
+      <workItem from="1589057362680" duration="113000" />
+      <workItem from="1589115810829" duration="20971000" />
+      <workItem from="1589229337469" duration="1004000" />
+      <workItem from="1589276242996" duration="12437000" />
+      <workItem from="1589315222105" duration="446000" />
+      <workItem from="1589360056985" duration="1915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
